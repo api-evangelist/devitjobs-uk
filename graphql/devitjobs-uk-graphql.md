@@ -1,1 +1,0 @@
-# DevITjobs UK GraphQL API

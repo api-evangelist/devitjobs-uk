@@ -50,8 +50,6 @@ apis:
   properties:
   - type: Documentation
     url: https://devitjobs.uk/job_feed.xml
-  - url: graphql/devitjobs-uk-graphql.md
-    type: GraphQL
 common:
 - type: DomainSecurity
   url: security/devitjobs-uk-domain-security.yml
