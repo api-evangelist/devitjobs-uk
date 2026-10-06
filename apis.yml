@@ -27,7 +27,7 @@ description: "Jobs with GraphQL"
 url: https://devitjobs.uk/job_feed.xml
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Jobs"
 x-tier: 3
@@ -52,6 +52,8 @@ apis:
   - type: Documentation
     url: https://devitjobs.uk/job_feed.xml
 common:
+- url: https://devitjobs.uk/blog
+  type: Blog
 - type: DomainSecurity
   url: security/devitjobs-uk-domain-security.yml
 - type: Website
