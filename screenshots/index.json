@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "devitjobs-uk",
+    "captured_at": "2026-10-11T185057",
+    "source_url": "https://devitjobs.uk/job_feed.xml",
+    "source_type": "Website",
+    "file": "devitjobs-uk-2026-10-11T185057.png",
+    "bytes": 112212,
+    "capture": "playwright-local"
+  }
+]
